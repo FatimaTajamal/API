@@ -1,6 +1,6 @@
-// Function to fetch and display all posts
+
 $(document).ready(function() {
-    getAllPosts(); // Call getAllPosts when the document is ready
+    getAllPosts();
 });
 
 function getAllPosts() {
